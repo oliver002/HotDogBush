@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication4
+﻿namespace HotDogBush
 {
     partial class Instructions
     {
@@ -36,7 +36,7 @@
             this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button1.FlatAppearance.BorderSize = 0;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Image = global::WindowsFormsApplication4.Properties.Resources.MainMenu;
+            this.button1.Image = global::HotDogBush.Properties.Resources.MainMenu;
             this.button1.Location = new System.Drawing.Point(48, 345);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(120, 20);
@@ -48,7 +48,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::WindowsFormsApplication4.Properties.Resources.InstructionsEdited;
+            this.BackgroundImage = global::HotDogBush.Properties.Resources.InstructionsEdited;
             this.ClientSize = new System.Drawing.Size(607, 404);
             this.Controls.Add(this.button1);
             this.Name = "Instructions";

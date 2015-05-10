@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WindowsFormsApplication4.Properties;
+using HotDogBush.Properties;
 using System.Collections.Generic;
 
-namespace WindowsFormsApplication4
+namespace HotDogBush
 {
     public class PersonList
     {

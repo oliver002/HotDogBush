@@ -7,7 +7,7 @@
     <ProjectGuid>{55C035A9-7F85-4F5D-A3F0-32DD26AD4B30}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WindowsFormsApplication4</RootNamespace>
+    <RootNamespace>HotDogBush</RootNamespace>
     <AssemblyName>WindowsFormsApplication4</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

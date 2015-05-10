@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Drawing;
 
 
-namespace WindowsFormsApplication4
+namespace HotDogBush
 {
     public class Person : Shape
     {
@@ -108,7 +108,6 @@ namespace WindowsFormsApplication4
                 Coins coins = new Coins(coinsPoint.X, coinsPoint.Y);
                 coins.money = toPay;
                 Game.addShape(coins);
-
             }
         }
 

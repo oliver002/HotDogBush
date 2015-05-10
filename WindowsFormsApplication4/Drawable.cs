@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
 
-namespace WindowsFormsApplication4
+namespace HotDogBush
 {
     public interface Drawable
     {

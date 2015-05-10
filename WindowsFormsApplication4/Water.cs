@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WindowsFormsApplication4.Properties;
+using HotDogBush.Properties;
 
-namespace WindowsFormsApplication4
+namespace HotDogBush
 {
     public class Water : Shape
     {

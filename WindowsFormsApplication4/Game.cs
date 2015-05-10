@@ -7,8 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using WindowsFormsApplication4.Properties;
-namespace WindowsFormsApplication4
+using HotDogBush.Properties;
+namespace HotDogBush
 {
     public partial class Game : Form
     {

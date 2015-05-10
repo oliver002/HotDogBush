@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsFormsApplication4
+namespace HotDogBush
 {
     public class EnterData : IComparable<EnterData>
     {

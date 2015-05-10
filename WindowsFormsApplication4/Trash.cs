@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
-using WindowsFormsApplication4.Properties;
+using HotDogBush.Properties;
 
 
-namespace WindowsFormsApplication4
+namespace HotDogBush
 {
     class Trash : Shape
     {

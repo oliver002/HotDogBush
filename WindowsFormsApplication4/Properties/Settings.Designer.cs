@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WindowsFormsApplication4.Properties {
+namespace HotDogBush.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

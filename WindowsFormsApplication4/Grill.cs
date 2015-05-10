@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
-using WindowsFormsApplication4.Properties;
+using HotDogBush.Properties;
 using System.Windows.Forms;
 
 
-namespace WindowsFormsApplication4
+namespace HotDogBush
 {
     public class Grill :  Drawable
     {

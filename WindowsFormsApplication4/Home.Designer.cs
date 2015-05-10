@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication4
+﻿namespace HotDogBush
 {
     partial class Home
     {
@@ -39,7 +39,7 @@
             this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button2.FlatAppearance.BorderSize = 0;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Image = global::WindowsFormsApplication4.Properties.Resources.Instructions;
+            this.button2.Image = global::HotDogBush.Properties.Resources.Instructions;
             this.button2.Location = new System.Drawing.Point(431, 264);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(131, 19);
@@ -53,7 +53,7 @@
             this.button3.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button3.FlatAppearance.BorderSize = 0;
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Image = global::WindowsFormsApplication4.Properties.Resources.HighScores;
+            this.button3.Image = global::HotDogBush.Properties.Resources.HighScores;
             this.button3.Location = new System.Drawing.Point(433, 294);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(125, 22);
@@ -71,7 +71,7 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button1.ForeColor = System.Drawing.Color.DarkRed;
-            this.button1.Image = global::WindowsFormsApplication4.Properties.Resources.Play;
+            this.button1.Image = global::HotDogBush.Properties.Resources.Play;
             this.button1.Location = new System.Drawing.Point(459, 224);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(76, 34);
@@ -83,7 +83,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::WindowsFormsApplication4.Properties.Resources.StartMenu;
+            this.BackgroundImage = global::HotDogBush.Properties.Resources.StartMenu;
             this.ClientSize = new System.Drawing.Size(608, 404);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
